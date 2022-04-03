@@ -1,0 +1,4 @@
+
+gs/   ( completely ignore the direcotry & content inside )
+		*.class ( completely ignores files ending with .class in the reposiotry )
+		*.txt   ( comletely ignores files ending with .txt in the reposiotry )
